@@ -29,6 +29,7 @@
 | 微調腳本 |
 | -------- |
 | [Ultramarine Gnome Shell Config](https://github.com/samwhelp/ultramarine-gnome-shell-adjustment/tree/main) |
+| [Tool Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
