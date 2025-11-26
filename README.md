@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Ultramarine Gnome Shell Adjustment](https://samwhelp.github.io/ultramarine-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-gnome-shell-adjustment) |
 | [Ultramarine Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ultramarine-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-gnome-shell) |
+| [Ultramarine 探索筆記](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
 
 
 
@@ -87,11 +88,11 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
-| [Ultramarine 探索筆記](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
-| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
-| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
-| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
+| [Fedora Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-fedora-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-fedora-gnome-shell) |
+| [Debian Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
+| [Ubuntu Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ubuntu-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-gnome-shell) |
+| [Archlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-archlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-gnome-shell) |
 
 
 
